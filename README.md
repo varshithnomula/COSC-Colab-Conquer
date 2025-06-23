@@ -2,7 +2,7 @@
 
 This project demonstrates basic data loading and visualization techniques using the classic **Iris flower dataset**.
 
-# google colab badge
+### google colab badge
 <a target="_blank" href="https://colab.research.google.com/github/varshithnomula/COSC-Colab-Conquer.git">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
